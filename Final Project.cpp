@@ -373,14 +373,14 @@ void mainMenu(){
                 break;
 
             case '9' :
-                cout << "Petunjuk Penggunaan ";
-                cout << "";
-                cout << "";
-                cout << "";
-                cout << "";
-                cout << "";
-                cout << "";
-                cout << "";
+                cout << "Petunjuk Penggunaan Aplikasi Administrasi Rawat Inap" << endl;
+                cout << "1. Pilih Menu Daftar Pasien\n";
+                cout << "2. Masukan identitas pasien\n";
+                cout << "3. Pilih kategori penanganan pasien\n";
+                cout << "4. Setelah pasien diizinkan pulang, lakukan check out Rumah Sakit\n";
+                cout << "5. Silahkan pilih menu no 4 untuk mengecek Id pasien\n";
+                cout << "\nJika ada pertanyaan lebih lanjut, silahkan hubungi\n";
+                cout << "call center lewat no 52102605";
 
             default:
                 break;
